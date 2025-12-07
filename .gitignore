@@ -1,0 +1,6 @@
+# .gitignore
+.vscode/
+*.tfstate
+*.tfstate.backup
+.terraform/
+*.log
