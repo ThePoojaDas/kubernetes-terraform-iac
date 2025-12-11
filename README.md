@@ -185,17 +185,15 @@ minikube service grafana-service
 ![Terminal Output1](image/Terminal_output1.png) 
 
 
-![Terminal Output 1](image/Terminal output1.png)
+![Terminal Output 2](image/Terminal_output2.png) 
 
-![Terminal Output 2](image/Terminal output2.png)
+![Terminal Output 3](image/Terminal_output3.png)
 
-![Terminal Output 3](image/Terminal output3.png)
+![Terminal Output 4](image/Terminal_output4.png)
 
-![Terminal Output 4](image/Terminal output4.png)
+![Terminal Output 5](image/Terminal_output5.png)
 
-![Terminal Output 5](image/Terminal output5.png)
-
-![Terminal Output 6](image/Terminal output6.png)
+![Terminal Output 6](image/Terminal_output6.png)
 
 
 
