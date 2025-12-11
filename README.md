@@ -158,6 +158,7 @@ kubectl get deployments
 ```bash
 minikube service webapp-service
 ```
+<img width="2974" height="717" alt="image" src="https://github.com/user-attachments/assets/3f727870-769b-45dc-972b-1a068e60a6e6" />
 
 ### 📊 Monitoring Dashboards
 
