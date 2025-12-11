@@ -182,7 +182,7 @@ minikube service grafana-service
 ![Grafana Dashboard](image/grafana.png)
 
 ---
-![Terminal Output1](image/Terminal output 1.png)
+![Terminal Output1](image/Terminal_output1.png) 
 
 
 ![Terminal Output 1](image/Terminal output1.png)
